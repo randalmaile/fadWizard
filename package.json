@@ -1,0 +1,20 @@
+{
+  "name": "fad-wiz",
+  "version": "1.0.0",
+  "description": "fad-wizard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randalmaile/fadWizard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randalmaile/fadWizard/issues"
+  },
+  "homepage": "https://github.com/randalmaile/fadWizard#readme"
+}
